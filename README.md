@@ -3,8 +3,7 @@
 An end-to-end machine learning project that recommends the optimal crop to grow based on soil nutrients (N, P, K), pH, and climate conditions (temperature, humidity, rainfall) — built with a focus on real-world relevance for Indian agriculture.
 
 ## 🔗 Live App
-
-[https://your-app-name.streamlit.app](#) *(update after deployment)*
+[https://crop-recommendation-system-ahkyqovjzwowzjztvvm7q3.streamlit.app/](https://crop-recommendation-system-ahkyqovjzwowzjztvvm7q3.streamlit.app/)
 
 ## 📌 Problem Statement
 
